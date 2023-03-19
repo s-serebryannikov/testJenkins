@@ -5,7 +5,7 @@ import javax.servlet.http.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "helloServlet", value = "/hello")
+@WebServlet(name = "testServlet", value = "/hello")
 public class TestServlet extends HttpServlet {
     private String message;
 
