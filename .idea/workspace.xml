@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679252944501</updated>
-      <workItem from="1679252945701" duration="3686000" />
+      <workItem from="1679252945701" duration="3991000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1679261128579</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679263274941</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new commit jenkins test hook">
+      <created>1679263412224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679263412224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
