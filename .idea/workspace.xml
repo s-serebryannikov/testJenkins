@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a66517-aed0-4ab4-aaf3-783a89a83c7e" name="Changes" comment="new commit jenkins" />
+    <list default="true" id="64a66517-aed0-4ab4-aaf3-783a89a83c7e" name="Changes" comment="new commit new jenkinsss" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679252944501</updated>
-      <workItem from="1679252945701" duration="5392000" />
+      <workItem from="1679252945701" duration="5731000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1679261128579</created>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679286954079</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new commit new jenkins">
+      <created>1679287103469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679287103469</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new commit new jenkinsss">
+      <created>1679287296908</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679287296908</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +139,8 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit jenkins test hook" />
     <MESSAGE value="new commit jenkins" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit jenkins" />
+    <MESSAGE value="new commit new jenkins" />
+    <MESSAGE value="new commit new jenkinsss" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit new jenkinsss" />
   </component>
 </project>
