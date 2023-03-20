@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a66517-aed0-4ab4-aaf3-783a89a83c7e" name="Changes" comment="new commit jenkins test hook" />
+    <list default="true" id="64a66517-aed0-4ab4-aaf3-783a89a83c7e" name="Changes" comment="new commit jenkins" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679252944501</updated>
-      <workItem from="1679252945701" duration="3991000" />
+      <workItem from="1679252945701" duration="4733000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1679261128579</created>
@@ -87,7 +87,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679263412224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new commit jenkins test hook">
+      <created>1679263603067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679263603067</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new commit jenkins">
+      <created>1679263617584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679263617584</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new commit jenkins">
+      <created>1679286094503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679286094503</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit jenkins test hook" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit jenkins test hook" />
+    <MESSAGE value="new commit jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit jenkins" />
   </component>
 </project>
